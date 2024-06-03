@@ -1,0 +1,1081 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section */
+.logo {
+    margin: 0;
+    width: 280px;
+    height: 110px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.location {
+    color: rgb(4, 79, 56);
+    font-size: 12px;
+    font-weight: bolder;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.fa-solid {
+    padding-left: 5px;
+}
+
+.account {
+    background-color: rgb(81, 126, 114);
+    color: white;
+    border-radius: 3px;
+    font-size: 12px;
+    margin: 0;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.fa-solid {
+    padding-right: 5px;
+}
+
+.signin {
+    background-color: rgb(4, 79, 56);
+    color: white;
+    border-radius: 3px;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.ask-fran {
+    color: rgb(4, 79, 56);
+    font-size: 12px;
+    font-weight: bolder;
+    font-style: italic;
+    margin: 0;
+    cursor: pointer;
+}
+
+.avatar {
+    background-color: white;
+    border: 1px solid #2d2b2b;
+    border-radius: 25px;
+    margin-left: 5px;
+}
+
+.wallet {
+    padding-bottom: 5px;
+}
+
+.routing {
+    float: right;
+    padding-right: 18px;
+    padding-top: 25px;
+    line-height: 0.2;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.swift-code {
+    float: right;
+    padding-right: 18px;
+    line-height: 0.2;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 35px
+}
+
+.carousel-icon {
+    background-color: grey;
+    opacity: 0.5;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    padding: 12px;
+
+}
+
+.fa-solid.fa-angle-left {
+    font-size: 60px;
+    color: white;
+}
+
+.fa-solid.fa-angle-right {
+    font-size: 60px;
+    color: white;
+}
+
+.carousel-indicators .active {
+    width: 12px;
+    height: 10px;
+    border-radius: 100%;
+
+}
+
+.carousel-indicators .active1 {
+    width: 12px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.slider-contenet {
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.win-contenet {
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+   
+}
+
+/* menu-content */
+.menu-loans {
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.menu-content {
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    padding-left: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.card-content {
+    border: 0px solid #2d2b2b;
+    border-radius: 5px;
+    
+}
+.card-contents {
+    border: 0px solid #2d2b2b;
+    border-radius: 5px;
+    margin-top: 30px;
+    
+}
+.card-contents:hover {
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(0, 80, 54);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.card-content:hover {
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(0, 80, 54);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.box-header {
+    padding-left: 30px;
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.icons {
+    padding-left: 40px;
+}
+
+.search-icon {
+    color: white;
+    float: right;
+
+
+}
+
+.header-content {
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.header-content1 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 0.2;
+}
+
+.header-content2 {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 0.2;
+}
+
+.header-content3 {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 0.5;
+}
+
+.cards-content {
+    padding-top: 60px;
+    margin: 30px;
+    cursor: pointer;
+
+}
+
+.cards-content:hover {
+    padding-top: 60px;
+    margin: 30px;
+    background-color: rgb(0, 80, 54);
+    border-radius: 5px;
+    color: white;
+}
+
+.separation {
+    opacity: 0.5;
+    border: 0.5px solid #e0e8f3;
+    transform: rotate(180deg);
+}
+
+.happening {
+    text-align: center;
+    padding: 50px;
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(67, 72, 69);
+    margin: 0;
+}
+
+.cards {
+    border: 0px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.card-img {
+    padding: 20px;
+}
+
+.card-font {
+    padding: 30px;
+}
+
+.saving {
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    float: right;
+}
+
+.content {
+    color: white;
+    text-align: right;
+}
+
+.separations {
+    opacity: 0.5;
+    border: 0.5px solid #e0e8f3;
+    transform: rotate(180deg);
+}
+
+.dollor {
+    font-size: 45px;
+    font-weight: 400;
+    color: white;
+    padding-top: 40px;
+}
+
+.demo-content {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    margin: 0;
+}
+
+.live-chat {
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin: 0;
+    color: rgb(2, 82, 57);
+}
+
+.visit {
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin: 0;
+    color: rgb(2, 82, 57);
+}
+
+.contact-chat {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0;
+    color: rgb(2, 82, 57);
+}
+
+.find {
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin: 0;
+    color: rgb(2, 82, 57);
+}
+
+.number {
+    line-height: 0.2px;
+    padding-top: 20px;
+    padding-left: 25px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.number1 {
+    line-height: 1px;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 25px;
+}
+
+.mini-heading {
+    font-size: 12px;
+    font-weight: 700;
+    color: rgb(2, 82, 57);
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+.mini-content {
+    font-size: 12px;
+    padding-left: 40px;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: 500;
+}
+
+.logos {
+    padding: 40px;
+}
+
+.box-content {
+    background-color: rgb(217, 217, 217);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 60%;
+}
+
+.box-icon {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+
+}
+
+.box-icon1 {
+    height: 100px;
+    width: 150px;
+    padding: 20px;
+    padding-left: 0;
+
+}
+
+.demo-para {
+    font-size: 12px;
+    padding: 20px;
+    margin: 0;
+    font-weight: 400;
+
+}
+
+.separate {
+    opacity: 0.2;
+    border: 0.2px solid rgb(2, 82, 57);
+    transform: rotate(180deg);
+    margin-bottom: 20px;
+}
+
+.copy-content {
+    font-size: 10px;
+    font-weight: 500;
+    color: rgb(2, 82, 57);
+    padding: 10px;
+    padding-left: 40px;
+    margin: 0;
+}
+
+.terms-content {
+    font-size: 10px;
+    font-weight: 500;
+    color: rgb(2, 82, 57);
+    padding: 10px;
+    float: right;
+}
+
+.menu-section {
+    width: 100%;
+}
+
+.option-content {
+    margin: 30px;
+}
+
+.divider {
+    opacity: 0.5;
+    border: 0.5px solid #e0e8f3;
+    transform: rotate(180deg);
+
+}
+
+.fa-solid.fa-message {
+    padding-right: 20px;
+}
+
+.fa-solid.fa-house-user {
+    padding-right: 15px;
+}
+
+.fa-solid.fa-location-dot {
+    padding-right: 20px;
+}
+
+.fa-sharp.fa-solid.fa-phone {
+    padding-right: 20px;
+}
+
+.fa-brands {
+    padding: 10px;
+    margin-left: 0px;
+}
+
+@media (max-width: 767px) {
+    .location {
+        font-size: 15px;
+    }
+
+    .ask-fran {
+        font-size: 15px;
+    }
+
+    .account {
+        font-size: 15px;
+
+    }
+
+    .signin {
+        font-size: 15px;
+    }
+
+    .menu-loans {
+        color: white;
+        font-weight: 500;
+        font-size: 15px;
+        margin: 0;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .search-icon {
+        display: none;
+    }
+    .separation{
+        display: none;
+    }
+
+    .menu-content {
+        font-size: 15px;
+        text-align: center;
+        padding: 0;
+        cursor: pointer;
+    }
+
+    .btn.btn-success {
+        font-size: 12px;
+    }
+
+    .content {
+        color: white;
+        text-align: left;
+    }
+
+    .saving {
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+        float: right;
+    }
+
+    .dollor {
+        padding: 0;
+        margin-bottom: 0px;
+    }
+
+    .fa-brands {
+        padding-left: 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .mini-heading {
+        padding: 0;
+        padding-left: 50px;
+    }
+
+    .mini-content {
+        padding: 0;
+        padding-left: 50px;
+    }
+
+    .box-icon1 {
+        padding-left: 15px;
+    }
+    .card-contents {
+        border: 0px solid #2d2b2b;
+        border-radius: 5px;
+        margin-top: 70px;
+        
+    }
+    .btn.btn-outline-success{
+        font-size: 12px;
+    }
+    .btn.btn-success{
+        font-size: 8px;
+        float: right;
+        margin-left: 25px;
+    }
+
+    .copy-content {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        float: none;
+    }
+
+    .terms-content {
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    .cards {
+        margin-top: 10px;
+    }
+
+    .happening {
+        text-align: center;
+        padding: 30px;
+        font-size: 25px;
+    }
+
+    .live-chat {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 30px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .visit {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .contact-chat {
+        font-size: 15px;
+        font-weight: 500;
+        text-align: center;
+        padding-top: 5px;
+
+    }
+
+    .find {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        padding-left: 0px;
+        text-align: center;
+
+    }
+
+    .number {
+        line-height: 0.2px;
+        padding-top: 20px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .number1 {
+        line-height: 1px;
+        font-size: 12px;
+        text-align: center;
+
+    }
+
+    .fa-brands {
+        align-items: center;
+        margin-left: 15px;
+    }
+
+    .mini-heading {
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 0;
+
+    }
+
+    .mini-content {
+        font-size: 12px;
+        text-align: center;
+        padding-top: 5px;
+        margin: 0;
+        font-weight: 500;
+        padding-left: 0;
+
+    }
+
+    .logos {
+
+        padding: 50px;
+    }
+
+    .box-content {
+        width: 100%;
+    }
+
+    .box-icon {
+        margin-left: 5px;
+    }
+
+    .box-icon1 {
+        margin-left: 5px;
+
+    }
+    /* .slider-contenet {
+        font-size: 10px;
+        font-weight: 100;
+        margin-bottom: 5px;
+        text-align: left;
+    }
+    
+    .win-contenet {
+        background-color: white;
+        color: black;
+        font-size: 15px;
+        font-weight: 500;
+        padding: 10px;
+        width: 50px;
+        border-radius: 5px;
+       
+    } */
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .location {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
+    .ask-fran {
+        font-size: 15px;
+    }
+
+    .account {
+        font-size: 15px;
+
+    }
+
+    .signin {
+        font-size: 15px;
+    }
+
+    .menu-loans {
+        color: white;
+        font-weight: 500;
+        font-size: 15px;
+        margin: 0;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .search-icon {
+        display: none;
+    }
+
+    .menu-content {
+        font-size: 15px;
+        text-align: center;
+        padding: 0;
+        cursor: pointer;
+    }
+
+    .slider-contenet {
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .win-contenet {
+        font-size: 12px;
+        width: 180px;
+        margin-bottom: 10px;
+
+    }
+
+    .btn.btn-success {
+        float: right;
+        margin: 0;
+        margin-left: 50px;
+    }
+
+    .happening {
+        text-align: center;
+        padding: 30px;
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .cards {
+        margin-top: 10px;
+    }
+
+    .content {
+        color: white;
+        text-align: left;
+        text-align: right;
+    }
+    .card-contents {
+        border: 0px solid #2d2b2b;
+        border-radius: 5px;
+        margin-top: 70px;
+        
+    }
+
+    .dollor {
+        padding: 0;
+        float: right;
+        margin: 0;
+
+    }
+
+    .live-chat {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 30px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .visit {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .contact-chat {
+        font-size: 15px;
+        font-weight: 500;
+        text-align: center;
+        padding-top: 30px;
+
+    }
+
+    .find {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        padding-left: 0px;
+        text-align: center;
+
+    }
+
+    .number {
+        line-height: 0.2px;
+        padding-top: 20px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .number1 {
+        line-height: 1px;
+        font-size: 12px;
+        text-align: center;
+
+    }
+
+    .mini-heading {
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 0;
+
+    }
+
+    .mini-content {
+        font-size: 12px;
+        text-align: center;
+        padding-top: 5px;
+        margin: 0;
+        font-weight: 500;
+        padding-left: 0;
+
+    }
+
+    .logos {
+        margin: 0;
+        padding: 0;
+        padding-top: 20px;
+
+    }
+
+    .box-content {
+        width: 80%;
+    }
+
+    .box-icon {
+        margin-left: 1px;
+        height: 80px;
+        width: 80px;
+        margin-top: 15px;
+    }
+
+    .box-icon1 {
+        margin-left: 1px;
+        height: 80px;
+        width: 80px;
+        margin-top: 15px;
+
+    }
+
+    .copy-content {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        float: none;
+    }
+
+    .terms-content {
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .location {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
+    .ask-fran {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
+    .account {
+        font-size: 15px;
+
+    }
+
+    .signin {
+        font-size: 15px;
+    }
+
+    .slider-contenet {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .win-contenet {
+        font-size: 15px;
+        width: 200px;
+
+    }
+
+    .happening {
+        text-align: center;
+        padding: 30px;
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .cards {
+        margin-top: 10px;
+    }
+
+    .content {
+        color: white;
+        text-align: left;
+    }
+    .card-contents {
+        border: 0px solid #2d2b2b;
+        border-radius: 5px;
+        margin-top: 0px;
+        
+    }
+
+    .saving {
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+        float: right;
+    }
+
+    .dollor {
+        padding: 0;
+        margin-bottom: 0px;
+    }
+
+    .live-chat {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 30px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .visit {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        text-align: center;
+        padding-left: 0px;
+
+    }
+
+    .contact-chat {
+        font-size: 15px;
+        font-weight: 500;
+        text-align: center;
+        padding-top: 30px;
+
+    }
+
+    .find {
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        padding-left: 0px;
+        text-align: center;
+
+    }
+
+    .number {
+        line-height: 0.2px;
+        padding-top: 20px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .number1 {
+        line-height: 1px;
+        font-size: 12px;
+        text-align: center;
+
+    }
+
+    .mini-heading {
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 0;
+
+    }
+
+    .mini-content {
+        font-size: 12px;
+        text-align: center;
+        padding-top: 5px;
+        margin: 0;
+        font-weight: 500;
+        padding-left: 0;
+
+    }
+
+    .logos {
+        margin: 0;
+        padding: 0;
+        padding-top: 20px;
+
+    }
+
+    .box-content {
+        width: 80%;
+    }
+
+    .box-icon {
+        margin-left: 1px;
+        height: 80px;
+        width: 80px;
+        margin-top: 15px;
+    }
+
+    .box-icon1 {
+        margin-left: 1px;
+        height: 80px;
+        width: 80px;
+        margin-top: 15px;
+
+    }
+
+    .copy-content {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        float: none;
+    }
+
+    .terms-content {
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+}
